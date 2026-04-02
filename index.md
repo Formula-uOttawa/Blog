@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Hi! We are Formula uOttawa, a competitive design team that builds a formula-style racecar for to compete in Formula SAE.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Our blog will feature posts from members about things we learned and want to document.
